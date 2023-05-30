@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning architecture enginering and unity
 - 💞️ I’m looking to collaborate on Baumos(https://www.baumosinfo.com/)
 - 📫 How to reach me jaehee2173@gmail.com
+- 📫 My Portpolio https://tome.app/jcurve/jaehee-cho-portpolio-clhirrwfq0bft9a40jcp4rqld
 
 <!---
 JCURVEs/JCURVEs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
