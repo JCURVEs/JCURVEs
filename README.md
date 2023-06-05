@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JCURVEs
-
 - 📫 My Portpolio https://tome.app/jcurve/jaehee-cho-portpolio-clhirrwfq0bft9a40jcp4rqld
 
 <!---
