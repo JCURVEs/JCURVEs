@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JCURVEs
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJCURVEs&count_bg=%239C0AFD&title_bg=%23555555&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### [My Portpolio](https://tome.app/jcurve/jaehee-cho-portpolio-clhirrwfq0bft9a40jcp4rqld)
 
 <!---
