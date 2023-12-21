@@ -17,7 +17,7 @@
 
 ### 👇 I'm Here 👇
 <a href="https://jcurveworld.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-20C997.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://thankful-archduke-d69.notion.site/05e5756136754bd8a4d87e67f965b180?pvs=4"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K5jKIanpJK5TZnLwHDrscODw3K-IbbaW/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13w4G4GmWktIkqGCt6mSd8OB2i7zsRoAz/view?usp=sharing)
 <br>
 <br/>
 </div>
