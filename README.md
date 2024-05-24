@@ -21,6 +21,6 @@
 <br>
 
 ### Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14sRK0lsWFogF7Htpi6WsbeBaki9MPjDT/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://smallpdf.com/file#s=7da1f09c-f038-45f7-9d91-2f28e49303a5)
 <br/>
 </div>
