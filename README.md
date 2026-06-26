@@ -1,26 +1,40 @@
+# Jay Cho
 
+I build and study at the intersection of AI, industrial systems, and knowledge automation.
 
-<div align="center">
-  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jay&nbsp;Cho&fontSize=40&fontAlign=88&fontAlignY=40&desc=@JCURVEs&descAlign=88&color=gradient)
+My current focus is turning scattered technical signals into reusable knowledge: AI agents, smart buildings, digital twins, energy systems, data centers, and practical automation workflows.
 
+[Website](https://jcurves.github.io/) · [Threads](https://www.threads.net/@jokerburg.builder) · [Tistory](https://jcurveworld.tistory.com/)
 
-### Studying With
-  
-<img alt="Csharp" src ="https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  
-<br>
-  
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-57b9d3.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+## Current Direction
 
+- AI agents for research, content operations, and personal knowledge workflows
+- Smart building automation, BEMS, digital twins, and energy efficiency
+- Technical writing that connects AI infrastructure, industrial execution, and market strategy
+- Lightweight tools that turn repeated work into repeatable systems
 
-### 👇 I'm Here 👇
-<a href="https://jcurveworld.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-20C997.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://thankful-archduke-d69.notion.site/05e5756136754bd8a4d87e67f965b180?pvs=4"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pjtaBTy-Az5XWK8QghF6AZ15eZB-ZU-E/view?usp=drive_link)
-<br>
+## Recent Work
 
-### Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://smallpdf.com/file#s=7da1f09c-f038-45f7-9d91-2f28e49303a5)
-<br/>
-</div>
+- [AI Report 2026](https://jcurves.github.io/ai-report-2026/)  
+  A technical report on the 2020-2026 AI transition and the shift from model performance to industrial execution and energy efficiency.
+
+- [thread-auto](https://github.com/JCURVEs/thread-auto)  
+  A Python workflow for collecting and organizing daily technology signals for content publishing.
+
+- [noonfeel](https://github.com/JCURVEs/noonfeel)  
+  A smart-glasses AR gaze AI agent experiment.
+
+- [MetaSoje](https://github.com/JCURVEs/MetaSoje)  
+  A metaverse project exploring preservation and spatial storytelling.
+
+## Background
+
+I started from Unity, C#, and metaverse/XR projects, then moved toward AI systems, automation, and industrial applications. These days I am more interested in how AI becomes useful inside real operating environments: buildings, infrastructure, workflows, and decision-making loops.
+
+## Tech I Use
+
+Python · JavaScript · C# · Unity · GitHub Pages · Markdown · LLM workflows · Obsidian
+
+## Notes
+
+This profile is evolving into a public index of my technical work, research notes, and experiments. The goal is not only to ship projects, but to compound what I learn into a durable knowledge base.
