@@ -4,7 +4,12 @@ I build and study at the intersection of AI, industrial systems, and knowledge a
 
 My current focus is turning scattered technical signals into reusable knowledge: AI agents, smart buildings, digital twins, energy systems, data centers, and practical automation workflows.
 
-[Website](https://jcurves.github.io/) · [Threads](https://www.threads.net/@jokerburg.builder) · [GitHub](https://github.com/JCURVEs)
+<p>
+  <a href="https://jcurves.github.io/"><img src="https://img.shields.io/badge/Website-JCURVEs-111111?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.threads.net/@jokerburg.builder"><img src="https://img.shields.io/badge/Threads-@jokerburg.builder-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://www.linkedin.com/in/jcurves/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/JCURVEs"><img src="https://img.shields.io/badge/GitHub-JCURVEs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ## Current Direction
 
@@ -33,7 +38,7 @@ I started from Unity, C#, and metaverse/XR projects, then moved toward AI system
 
 ## Tech I Use
 
-Python · JavaScript · C# · Unity · GitHub Pages · Markdown · LLM workflows · Obsidian
+Python - JavaScript - C# - Unity - GitHub Pages - Markdown - LLM workflows - Obsidian
 
 ## Notes
 
