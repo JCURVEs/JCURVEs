@@ -4,7 +4,7 @@ I build and study at the intersection of AI, industrial systems, and knowledge a
 
 My current focus is turning scattered technical signals into reusable knowledge: AI agents, smart buildings, digital twins, energy systems, data centers, and practical automation workflows.
 
-[Website](https://jcurves.github.io/) · [Threads](https://www.threads.net/@jokerburg.builder) · [Tistory](https://jcurveworld.tistory.com/)
+[Website](https://jcurves.github.io/) · [Threads](https://www.threads.net/@jokerburg.builder) · [GitHub](https://github.com/JCURVEs)
 
 ## Current Direction
 
@@ -15,9 +15,6 @@ My current focus is turning scattered technical signals into reusable knowledge:
 
 ## Recent Work
 
-- [AI Report 2026](https://jcurves.github.io/ai-report-2026/)  
-  A technical report on the 2020-2026 AI transition and the shift from model performance to industrial execution and energy efficiency.
-
 - [thread-auto](https://github.com/JCURVEs/thread-auto)  
   A Python workflow for collecting and organizing daily technology signals for content publishing.
 
@@ -26,6 +23,9 @@ My current focus is turning scattered technical signals into reusable knowledge:
 
 - [MetaSoje](https://github.com/JCURVEs/MetaSoje)  
   A metaverse project exploring preservation and spatial storytelling.
+
+- [AI Report 2026](https://jcurves.github.io/ai-report-2026/)  
+  A technical report on the 2020-2026 AI transition and the shift from model performance to industrial execution and energy efficiency.
 
 ## Background
 
