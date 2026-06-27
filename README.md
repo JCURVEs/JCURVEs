@@ -1,4 +1,4 @@
-# Jay Cho
+﻿# Jay Cho
 
 I build and study at the intersection of AI, industrial systems, and knowledge automation.
 
@@ -7,7 +7,7 @@ My current focus is turning scattered technical signals into reusable knowledge:
 <p>
   <a href="https://jcurves.github.io/"><img src="https://img.shields.io/badge/Website-JCURVEs-111111?style=for-the-badge" alt="Website"></a>
   <a href="https://www.threads.net/@jokerburg.builder"><img src="https://img.shields.io/badge/Threads-@jokerburg.builder-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
-  <a href="https://www.linkedin.com/in/jcurves/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jay2cho/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/JCURVEs"><img src="https://img.shields.io/badge/GitHub-JCURVEs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -43,3 +43,4 @@ Python - JavaScript - C# - Unity - GitHub Pages - Markdown - LLM workflows - Obs
 ## Notes
 
 This profile is evolving into a public index of my technical work, research notes, and experiments. The goal is not only to ship projects, but to compound what I learn into a durable knowledge base.
+
