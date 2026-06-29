@@ -1,6 +1,6 @@
 ﻿# Jay Cho
 
-I build and study at the intersection of AI, industrial systems, and knowledge automation.
+I build at the intersection of AI, industrial systems, and knowledge automation.
 
 My current focus is turning scattered technical signals into reusable knowledge: AI agents, smart buildings, digital twins, energy systems, data centers, and practical automation workflows.
 
