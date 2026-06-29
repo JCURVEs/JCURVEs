@@ -20,17 +20,14 @@ My current focus is turning scattered technical signals into reusable knowledge:
 
 ## Recent Work
 
+- [meta-wearable-glasses-for-research](https://github.com/JCURVEs/meta-wearable-glasses-for-research)  
+  ElderGlass: a senior-focused AI smart-glasses safety assistant system.
+
+- [siemens-valve-selector](https://github.com/JCURVEs/siemens-valve-selector)  
+  A practical selector tool for Siemens valve workflows and engineering support.
+
 - [thread-auto](https://github.com/JCURVEs/thread-auto)  
   A Python workflow for collecting and organizing daily technology signals for content publishing.
-
-- [noonfeel](https://github.com/JCURVEs/noonfeel)  
-  A smart-glasses AR gaze AI agent experiment.
-
-- [MetaSoje](https://github.com/JCURVEs/MetaSoje)  
-  A metaverse project exploring preservation and spatial storytelling.
-
-- [AI Report 2026](https://jcurves.github.io/ai-report-2026/)  
-  A technical report on the 2020-2026 AI transition and the shift from model performance to industrial execution and energy efficiency.
 
 ## Background
 
