@@ -39,12 +39,6 @@
 - [**thread-auto**](https://github.com/JCURVEs/thread-auto)  
   A Python pipeline for collecting AI/tech signals, archiving them by date, and drafting Threads-ready technical content.
 
-## 🛠️ Tech Stack
-
-```text
-Python · JavaScript · C# · Unity · Markdown · GitHub Pages · LLM workflows · Obsidian
-```
-
 ## ✍️ Writing & Notes
 
 - I write technical threads as [**@jokerburg.builder**](https://www.threads.net/@jokerburg.builder)
