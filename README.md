@@ -39,12 +39,6 @@
 - [**thread-auto**](https://github.com/JCURVEs/thread-auto)  
   A Python pipeline for collecting AI/tech signals, archiving them by date, and drafting Threads-ready technical content.
 
-## ✍️ Writing & Notes
-
-- I write technical threads as [**@jokerburg.builder**](https://www.threads.net/@jokerburg.builder)
-- I use GitHub as a public index for experiments, research notes, and small practical tools
-- My goal is to compound what I learn into durable systems, not just one-off outputs
-
 ## 📫 Contacts
 
 - Website: [jcurves.github.io](https://jcurves.github.io/)
